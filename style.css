@@ -1,0 +1,25 @@
+body{
+
+}
+
+header{
+    color: blue;
+    background-color: black;
+}
+main{
+    background-color: aquamarine;
+}
+footer{
+    background-color: brown;
+}
+
+.centro{
+    text-align: center;
+}
+
+#divisao{
+    background-color: blueviolet;
+    margin: 10px;
+    border: 20px;
+    padding: 5px;
+}
